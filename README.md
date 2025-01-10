@@ -62,10 +62,10 @@ Start the server
 
 ## Feedback
 
-If you have any feedback, please reach out to us at aaravmishra619@gmail.com
+If you have any feedback, please reach out to us at muktha028@gmail.com
 
 
 ## Support
 
-For support, email aaravmishra619@gmail.com 
+For support, email muktha028@gmail.com
 
